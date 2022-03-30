@@ -1,0 +1,21 @@
+.header {
+    width: 100%;
+    height: 104px;
+    border-bottom: 1px solid white;
+}
+
+.header_logo {
+    color: #FFFFFF;
+    font-size: 32px;
+    line-height: 25px;
+    margin-top: 40px;
+    float: left;
+    cursor: pointer;
+}
+
+.header_button {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 32px;
+    float: right;
+}
